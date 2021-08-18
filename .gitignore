@@ -1,0 +1,9 @@
+.idea
+.vscode
+.sass-cache
+*.sqlite3
+*.py[co]
+*.mo
+*~
+*.swp
+full/hidrate/local_settings.py
