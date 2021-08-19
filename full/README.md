@@ -4,7 +4,7 @@ This Django server can be used as a drop-in replacement for the upstream server.
 
 The downside is this server requires quite a bit more technical skills. You will need to know how to set up and maintain a database.
 
-**Note:** As all data is in your hands, no information is stripped from the requests. This means that device location and geolocation will be stored as-is. However, tracking information is not logged.
+**Note:** As all data is in your hands, no information is stripped from the requests. This means that device information and geolocation will be stored as-is. However, tracking information is not logged.
 
 ## Installation
 ```sh

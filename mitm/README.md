@@ -7,7 +7,7 @@ If you don't wish to set up the full server, this is a good alternative. Keep in
 ## Note
 You will need to run this server with a residential IP, as upstream blocks all non-residential IPs. If you do not receive a `403 Forbidden` when visiting [https://www.hidrateapp.com](https://www.hidrateapp.com), then your IP will work.
 
-At the time of writing, there exists an alternate domain that connects to the same database but doesn't seem to have the same blocks in place. You can try [https://www.hidratefrost.com/](https://www.hidratefrost.com/), though not that this isn't guaranteed to work in the future.
+At the time of writing, there exists an alternate domain that connects to the same database but doesn't seem to have the same blocks in place. You can try [https://www.hidratefrost.com/](https://www.hidratefrost.com/), though note that this isn't guaranteed to work in the future.
 
 If both of the above are not options, you may want to go for the full server instead.
 
